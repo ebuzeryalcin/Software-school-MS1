@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+
+    /*-------------Navbar---------------*/
+#navbar-styling{ 
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.75rem;
+    height: 70px;
+}
+
+.navbar-btn-right{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    color:#fff;
+}
+
+/* Targeting HTML a */
+.button-style-nav { 
+    background: none;
+    padding: 0.5rem;
+    transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+}
+
+/*hover effect*/
+.button-style-nav a{
+    margin-top: 1.25rem;
+    background: none;
+    padding: 0.2rem 0.5rem;
+    border-radius: 7px;
+    letter-spacing: 0.5px;
+}
+
+.button-style-nav a:hover{
+    color: #fff;
+    background: #336ea2;
+    border: 0.5px solid #336ea2;
+}
