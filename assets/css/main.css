@@ -49,3 +49,14 @@
     background: #336ea2;
     border: 0.5px solid #336ea2;
 }
+
+/*-------------Home Section---------------*/
+#home-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 1px solid;
+    height: 100vh;
+}
