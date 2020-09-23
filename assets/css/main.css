@@ -60,3 +60,18 @@
     border-bottom: 1px solid;
     height: 100vh;
 }
+
+#home-button img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#home-button .name h2{
+    margin-bottom: 0.75rem;
+}
+
+#home-button .name p{
+    opacity: 0.6;
+    font-style: italic;
+}
