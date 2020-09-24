@@ -122,3 +122,27 @@ html{
     padding: 0.5rem;
     list-style: none;
 }
+
+/*--------------Courses section---------------*/
+#courses-button{
+    color: #333;
+    padding: 1rem;
+}
+
+.courses-button{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.courses-button .course{
+display: flex;
+padding: 0.5rem;
+margin-bottom: 0.5rem;
+}
+
+.discount-span{
+    background: red;
+    color: #fff;
+    border-radius: 4px;
+}
