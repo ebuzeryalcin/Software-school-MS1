@@ -6,7 +6,6 @@
 }
 
 a{
-    /* No underline, if so */
     text-decoration: none;
     color: #fff;
 }
@@ -51,7 +50,6 @@ html{
     border-radius: 7px;
     letter-spacing: 0.5px;
 }
-
 .button-style-nav a:hover{
     color: #fff;
     background: #336ea2;
