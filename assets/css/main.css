@@ -101,3 +101,24 @@ html{
     opacity: 0.6;
     font-style: italic;
 }
+
+    /*----------------education-----------------*/
+#education-button{
+    color: #fff;
+    padding: 1rem;
+    height: 100vh;                        
+}
+
+#education-button .items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80%;
+}
+
+#education-button .items .item{
+    width: 33%;
+    text-align: center;
+    padding: 0.5rem;
+    list-style: none;
+}
