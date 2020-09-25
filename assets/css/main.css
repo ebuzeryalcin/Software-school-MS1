@@ -162,3 +162,7 @@ html{
     flex-direction: column;
 }
 
+#message{
+    height: 200px;
+}
+
