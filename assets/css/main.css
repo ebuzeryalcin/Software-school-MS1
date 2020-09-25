@@ -136,9 +136,9 @@ html{
 }
 
 .courses-button .course{
-display: flex;
-padding: 0.5rem;
-margin-bottom: 0.5rem;
+    display: flex;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .discount-span{
