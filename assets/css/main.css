@@ -146,3 +146,19 @@ html{
     color: #fff;
     border-radius: 4px;
 }
+
+    /*CONTACT SECTION*/
+#contact-button {
+    color: #fff;
+    padding: 1rem;
+    height: 100vh;
+}
+   
+#contact-button .contact-form{
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+}
+
