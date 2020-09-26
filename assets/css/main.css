@@ -222,8 +222,8 @@ html{
 }
 
 .footer .footer-content .footer-section{
-    flex:1;
-    padding:25px;
+    flex: 1;
+    padding-left: 25px;
 }
 
 .footer .footer-content h1,
