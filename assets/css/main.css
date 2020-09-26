@@ -275,3 +275,20 @@ html{
 .footer .footer-content .links ul a:hover{
     color: #336ea2;
 }
+
+/*-----------------------------GLOBAL-------------------------------*/
+.text-center{
+    text-align: center;
+}
+
+.heading-small{
+font-size: 1.25rem;
+}
+
+.heading-medium{
+    font-size: 1.5rem;
+}
+
+.heading-big{
+    font-size: 1.75rem;
+}
