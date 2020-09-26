@@ -292,3 +292,7 @@ font-size: 1.25rem;
 .heading-big{
     font-size: 1.75rem;
 }
+
+.bg-dark-blue{
+    background:#062e51;
+}
