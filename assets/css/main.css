@@ -216,3 +216,18 @@ html{
     padding-top: 20px;
 }
 
+.footer .footer-content{
+    height: 350px;
+    display: flex;
+}
+
+.footer .footer-content .footer-section{
+    flex:1;
+    padding:25px;
+}
+
+.footer .footer-content h1,
+.footer .footer-content h2{
+    color: #fff;
+}
+
