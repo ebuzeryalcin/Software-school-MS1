@@ -253,3 +253,15 @@ html{
     border-radius: 5px;
     transition: all.3s;
 }
+
+.footer .footer-content .about .socials a:hover{
+    border: 1px solid white;
+    color: #fff;
+    transition: all.3s;
+}
+
+/*footer Quick Links Section*/
+.footer .footer-content .links{
+    padding-top: 35px;
+    padding-left: 5px;
+}
