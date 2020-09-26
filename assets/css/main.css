@@ -45,7 +45,6 @@ html{
 }
 
 .navbar-btn-right{
-    text-decoration: none;
     list-style: none;
     display: flex;
     align-items: center;
@@ -71,6 +70,7 @@ html{
     letter-spacing: 0.5px;
 }
 .button-style-nav a:hover{
+    text-decoration: none;
     color: #fff;
     background: #336ea2;
     border: 0.5px solid #336ea2;
@@ -273,6 +273,7 @@ html{
 }
 
 .footer .footer-content .links ul a:hover{
+    text-decoration: none;
     color: #336ea2;
 }
 
