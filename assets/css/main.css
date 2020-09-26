@@ -265,3 +265,13 @@ html{
     padding-top: 35px;
     padding-left: 5px;
 }
+
+.footer .footer-content .links ul a{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.footer .footer-content .links ul a:hover{
+    color: #336ea2;
+}
