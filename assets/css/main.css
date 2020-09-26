@@ -296,3 +296,24 @@ font-size: 1.25rem;
 .bg-dark-blue{
     background:#062e51;
 }
+
+.btn{
+    margin-top: .5rem;
+    padding: 0.8rem 3rem;
+    border-radius: 7px;
+    letter-spacing: 0.5px;
+    margin-bottom: .5rem;
+}
+
+.btn-primary{
+    background: #336ea2;
+    transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+}
+
+.btn-primary:hover{
+    color: #fff;
+    background: #00AEF0;
+}
