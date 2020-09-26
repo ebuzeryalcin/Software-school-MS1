@@ -231,3 +231,25 @@ html{
     color: #fff;
 }
 
+.footer .footer-content .about h1 span{
+    color: #336ea2;
+}
+
+.footer .footer-content .about .contact .span{
+    display: block;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+} 
+
+.footer .footer-content .about .socials a{
+    border: 1px solid gray;
+    width: 45px;
+    height: 41px;
+    padding-top: 5px;
+    padding-right: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.3em;
+    border-radius: 5px;
+    transition: all.3s;
+}
