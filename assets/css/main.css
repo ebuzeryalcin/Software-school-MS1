@@ -317,3 +317,8 @@ font-size: 1.25rem;
     color: #fff;
     background: #00AEF0;
 }
+
+.container{
+    max-width: 1100px; /* Yani tam ekranda 100 px üstüne çıkamıycak. */
+    margin: 0 auto; /* Position center in full screen  */
+}
