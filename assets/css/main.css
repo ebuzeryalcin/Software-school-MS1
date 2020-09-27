@@ -145,9 +145,14 @@ html{
     background: red;
     color: #fff;
     border-radius: 4px;
+    padding: 0.1rem 0.2rem;
 }
 
-    /*CONTACT SECTION*/
+.description-course{
+    opacity: 0.8;
+}
+
+    /*----------------CONTACT SECTION---------------------*/
 #contact-button {
     color: #fff;
     padding: 1rem;
