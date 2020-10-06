@@ -173,6 +173,7 @@ html{
 
 .btn-block-submit{ 
     width: 100%;
+    background-color: #fff;
     transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
     -webkit-transition: all .4s ease-in-out;
