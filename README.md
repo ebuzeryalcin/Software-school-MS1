@@ -198,3 +198,28 @@ All my attempts to fix this have failed because if I resolved the overflow probl
 - I have tested the code on  different browsers (Chrome, Firefox, Edge, Opera, Safari) and on different devices such as mobile, tablet, laptop and large desktop.
 
 In other instances, I have simply changed things around because I thought that they looked nicer or worked better.
+
+## Deployment <a name="deployment"></a>
+
+**Deployment**
+
+This website has been deployed to GitHub Pages as [Software-school-MS1](https://ebuzeryalcin.github.io/Software-school-MS1/).
+
+
+### Code validation <a name="codevalidation"></a>
+
+The code has been runned through [W3C Markup Validation Service](https://validator.w3.org) and the [CSS Validation Service](https://jigsaw.w3.org/css-validator).
+
+W3C, for HTML, gave me three errors about the attributes in the iframes I used to embed Youtube videos in my Modals. I found that some attributes was not necessary and deleted them. 
+Two warnings appeared which can be considered as minor issues. The first is that I used two consecutive hyphens. 
+The second one is a class I used for h1 for style, h1 is always treated as top-level heading. 
+For CSS I got warning about Font family, about vendor extensions are proprietary code, as such it will always be invalid and warning about using same color rules in different styles.
+
+
+
+The latest results of the validation is below:
+
+![HTML](assets/images/htmlvalidator.PNG)
+
+![CSS](assets/images/cssvalidator1.PNG)
+![CSS](assets/images/cssvalidator2.PNG)
