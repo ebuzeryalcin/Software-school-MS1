@@ -5,7 +5,7 @@ alt="Software School logo"/>
 
 ![Image that contains example of responsiveness within several screens](assets/images/responsive.PNG)
 
-# Content 
+# Table of Contents <a name="home"></a>
 1. [Introduction](#introduction)
 2. [UX](#ux)
 3. [Wireframe](#wireframe)
@@ -282,3 +282,20 @@ I have taken advantage of several useful resources for images and my logo. Pleas
 
 - [Favicon](https://www.favicon.io)
     For the customized favicon I used. 
+
+## Acknowledgements and thanks <a name="acknowledgements"></a>
+
+Here is a list of some resources and pages I used through this project which are more than worth to mention:
+
+- Google
+- Bootstrap
+- Youtube
+- W3schools
+- Stack Overload
+- Slack 
+- Code Institute
+
+Lastly, I want to thank the Code Institute team, students on Slack, the tutor support, but mostly to my mentor Felipe Souza Alarcon for his responsibility taking mentoring, understanding and support.
+
+
+[ Back to Table of Contents](#home)
