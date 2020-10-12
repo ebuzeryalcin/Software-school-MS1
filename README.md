@@ -85,3 +85,23 @@ as possible in the desktop, tablet and mobile versions.
 * Below is a link to my wireframe:
 
 [Wireframe Software-school-MS1](https://app.moqups.com/9m58TR1mq0/view/page/a9bb1465e)
+
+## Visual Identity <a name="visualidentity"></a>
+
+Visual identity
+I wanted to give the page a professional character, and to give that feeling I used a stylish look on the whole page.
+On the website itself, I chose colors as support so that it became easier to visually distinguish and separate areas. 
+The choice of colors, the appearance of the buttons makes it easier for users to distinguish parts of the page and it is easier 
+to figure out what different parts of the page mean, which leads to continuity. For example, the percentage and color choice of 
+discounts attracts the eye and is a way to get users interested. Another example, the Description buttons on the courses have the 
+same look, the hover behavior is the same and one click takes us to the Modal pop-up. By clicking on one of the description buttons 
+and exiting it, the user understands that the other description buttons also contain information. It gives depth to the page and users 
+stay longer on the page, which increases the chance that people will go ahead and contact the business.
+
+Another way in which I used color to combine things around the site was the hovering behavior with links. I set all links to change 
+to the same light green color when you hover on / click on and also the modal buttons. When it comes to the navigation links, 
+in addition to the color, I also set these to briefly switch to italics for extra effect.
+
+The visual identity page is consistent. By using the same design, from blue to white and so on throughout the page, the visuals continue 
+from the top of the page all the way down. In the footer section, I chose to use a gray color to distinguish it from previous parts of the page.
+There is also a Back To Top button throughout the page to make it easy to navigate to top of the page. 
