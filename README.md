@@ -159,3 +159,42 @@ Series of images of the site is shown below:
 as well as the areas covered. 
 - As a content creator, I'd like to show people that I am an active social media user by inserting buttons on the Footer section.
 - As a content creator, I add contact information on several parts of the page to show that it is easy to approach me.
+
+## Testing <a name="testing"></a>
+
+I tested my website using GTMetrix, [GTmetrix](https://gtmetrix.com/reports/ebuzeryalcin.github.io/2V5DMiqr). 
+Below there is two screenshots showing my results:
+Page speed score was 94% and the time to fully load the site was 1.7s.
+
+GTMetrix detected and recommended some speed fixes at the page as shown below. To optimize images I used TinyPNG to compress my images. 
+![Website test results](assets/images/score1.PNG)
+
+I got bad results on "defer parsing javascript" and "Leverage browser caching". Everything else looks great but there is not much I can do to 
+fix these two recommendations. My latest results is shown below:
+![Website test results](assets/images/score2.PNG)
+
+
+**Testing/Demo**
+
+While I was testing carefully the overall look and responsiveness of my site, there occured some issues on the page. I have listed some changes and fixes down below:
+
+- During the project I came across errors in padding. The appearance of the computer screen usually looked good while other screen sizes 
+such as tablet and mobile versions encountered errors. After I added the Bootstrap grid to the courses section, I discovered a white line 
+on the right side of the web page. After a long investigation, I found a thread that the error can occur when the padding on a css style 
+rule differs from all others. I went through all my twenty padding styles and finally found the error on the padding in the Footer section.
+
+- Another problem I was spending time on was that I could not remove text decoration on the buttons in the Navbar. I looked through my 
+style.css and tried to use the same style from other sections but the underline on the buttons in the Navbar when I hovered over did 
+not disappear. Finally I solved the error by adding a text decoration, none rule in the hover selector.
+
+- During a test on my mobile phone, I encountered an error on the background color in the send button on the contact section. I was 
+surprised that I never encountered the error before when, for example, I used google chrome inspect to check the mobile version of the 
+page. On my computer, the background color was white, but when I tested the page on my mobile phone, the background color was dark blue. 
+I then added white to the background color rule on style.css.
+
+- A recurrent problem/bug which I have not managed to resolve satisfactorily is the height of the home page (index html). I really wanted the background photo to take up the full height of the screen and absorb the text from the footer and this works, but it then also creates a vertical scrollbar due to overflow.
+All my attempts to fix this have failed because if I resolved the overflow problem I then ended up with an issue with the footer icons moving around and/or a white band at the bottom of the page. In the end, I figured that it caused the least disruption to the site to leave the overflow as it was.
+
+- I have tested the code on  different browsers (Chrome, Firefox, Edge, Opera, Safari) and on different devices such as mobile, tablet, laptop and large desktop.
+
+In other instances, I have simply changed things around because I thought that they looked nicer or worked better.
