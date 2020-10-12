@@ -105,3 +105,57 @@ in addition to the color, I also set these to briefly switch to italics for extr
 The visual identity page is consistent. By using the same design, from blue to white and so on throughout the page, the visuals continue 
 from the top of the page all the way down. In the footer section, I chose to use a gray color to distinguish it from previous parts of the page.
 There is also a Back To Top button throughout the page to make it easy to navigate to top of the page. 
+
+### Site overview <a name="siteoverview"></a>
+
+Series of images of the site is shown below:
+
+
+![Navbar](assets/images/navbar.PNG)
+
+
+![Home Section](assets/images/home.PNG)
+
+
+![Education Section](assets/images/education.PNG)
+
+
+![Courses Section](assets/images/courses1.PNG)
+
+
+![Courses Section Modal pop-up](assets/images/courses2.PNG)
+
+
+![Contact Section](assets/images/contact.PNG)
+
+![Footer](assets/images/footer.PNG)
+
+
+## User Stories <a name="userstories"></a>
+
+
+**Users:**
+
+- As a user, I'd like to find information that online courses is available.
+- As a user, I'd like to find information that classroom courses is available.
+- As a user, I'd like to know more about courses the content creator offers.
+- As a user, I'd like to know that the content creator also gives conferences.
+- As a user, I'd like to know that the content creator have an experienced career in programming, so I can trust his tutoring/mentoring. 
+- As a user, I'd like to see the location?(classroom, add classroom online in description) 
+- As a user, I'd like to call but also contact them by writing a message or mail. 
+- As a user, I'd like to easily connect with the content creator. 
+- As a user, I'd like to know that the content creator uses social media platforms. 
+
+
+**Software School content creator:**
+
+- As a content creator, I'd like to attrect people to my website so they can learn programming. 
+- As a content creator, I'd like to promote the school with a clean and proffessional page. 
+- As a content creator, I'd like to promote different education plans that I offer to people.
+- As a content creator, I'd like to promote the courses I offer online and in classrooms. 
+- As a content creator, I'd like to gain trust of potential customers by having a noticible and ideal website with straightforward information about what courses I offer.
+- As a content creator, I want show that people can trust my services by clearly informing that I am a Senior Full Stack Developer and by having an "About me" part on the Footer section.
+- As a content creator, I'd like for potential customers to have a very clear idea of all the services I offer and pricing,
+as well as the areas covered. 
+- As a content creator, I'd like to show people that I am an active social media user by inserting buttons on the Footer section.
+- As a content creator, I add contact information on several parts of the page to show that it is easy to approach me.
