@@ -68,3 +68,20 @@ I divided my footer section into two parts. On one part I wanted to add a small 
 After the short presentation, there is contact information, telephone number and email address for the school. 
 Then there are also buttons that take us to social media. The second part is Quick Links, by selecting a button you are 
 taken directly to a specific section, which makes the user-friendliness better and the navigation much easier.
+
+The total size of the images was shown to be large, which means that the page loads more slowly. I used [tinypng.com](https://tinypng.com/) to compress the file sizes.
+The overall reduction in image file sizes decreased by 41% (70 KB).
+
+![tinypng image size saving results](assets/images/tinypng.PNG)
+
+
+## Wireframe <a name="wireframe"></a>
+
+My wireframe was designed using [Moqups Online App](https://moqups.com/)
+I created one wireframe for the html page, the desktop view. My plan was that the page would look as similar 
+as possible in the desktop, tablet and mobile versions. 
+
+
+* Below is a link to my wireframe:
+
+[Wireframe Software-school-MS1](https://app.moqups.com/9m58TR1mq0/view/page/a9bb1465e)
