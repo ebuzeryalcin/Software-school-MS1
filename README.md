@@ -223,3 +223,62 @@ The latest results of the validation is below:
 
 ![CSS](assets/images/cssvalidator1.PNG)
 ![CSS](assets/images/cssvalidator2.PNG)
+
+## Technologies <a name="technologies"></a>
+
+Primarily I have used the technologies [HTML5](https://en.wikipedia.org/wiki/HTML5) and [CSS3](https://en.wikipedia.org/wiki/CSS) to build, in addition to these, I have also used these below:
+
+- [Gitpod](https://www.gitpod.io)
+    I have coded through Gitpod, I figured it would go first in the list. All code was written in Gitpod, the workspace is located here. 
+
+- [GitHub](https://www.github.com)
+    Used to hosting and deploying the project. 
+
+- [Bootstrap](https://getbootstrap.com)
+    I used the grid system, Modal, navbar and so on from Bootstrap. I have relied heavily on Bootstrap elements although I have on many occasions modified it for styling purposes.
+
+- [FontAwesome](https://fontawesome.com)
+    Used for their great icons, which I have used on most if not all my pages. I used it a lot and having a lot of modifications in the code.
+
+- [Cloudflare](https://www.cloudflare.com) 
+    This is only used for scripts. 
+
+- [Google Fonts](https://fonts.google.com/) 
+    Used for fonts. 
+
+- [Code Beautify CSS beautifier](https://codebeautify.org)
+    To make CSS look nicer and tidier.
+
+- [Beautify Tools HTML beautifier](http://beautifytools.com/html-beautifier.php)
+    To make HTML tidier.
+
+- [W3C Markup Validation Service](https://validator.w3.org)
+    To check the HTML code.
+    
+- [CSS Validation Service](https://jigsaw.w3.org/css-validator)
+    To check the CSS code.
+
+- [Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+    Used it all the time, which was very important to make quick changes and detect errors.
+
+
+
+
+## Media <a name="media"></a>
+
+I have taken advantage of several useful resources for images and my logo. Please see below:
+
+- [Free Logo Design](https://www.freelogodesign.org/) 
+    Even though the real logo is the name of the content creator I wanted to create a logo for the readme file. 
+
+- [Google images](https://www.google.com/imghp) 
+    For some of the used images.
+
+- [Font Awesome](https://fontawesome.com/6?next=%2Fstart) 
+    Icons I used on this project.
+
+- [Youtube](http://youtube.com/) 
+    For the videos I embedded in my Modals. 
+
+- [Favicon](https://www.favicon.io)
+    For the customized favicon I used. 
