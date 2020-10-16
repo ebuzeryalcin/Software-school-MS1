@@ -205,6 +205,23 @@ In other instances, I have simply changed things around because I thought that t
 
 This website has been deployed to GitHub Pages as [Software-school-MS1](https://ebuzeryalcin.github.io/Software-school-MS1/).
 
+Deployment process is shown below:
+
+- Log into [GitHub](https://www.github.com)
+
+- Access the page with the repository for this project (https://ebuzeryalcin.github.io/Software-school-MS1/)
+
+- Click on 'Settings' on the main menu over the file listing
+
+- Scroll down to "GitHub Pages"
+
+- Click on Branch and choose master
+
+- This generates a direct link to the site, which can now be displayed publicly
+
+
+![Deployment](assets/images/deployment.PNG)
+
 
 ### Code validation <a name="codevalidation"></a>
 
