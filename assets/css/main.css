@@ -85,6 +85,7 @@ html{
     padding: 2rem;
     border-bottom: 1px solid;
     height: 100vh;
+    min-height: 620px;
 }
 
 #home-button img{
@@ -106,7 +107,8 @@ html{
 #education-button{
     color: #fff;
     padding: 1rem;
-    height: 100vh;                        
+    height: 100vh;
+    min-height: 600px;                        
 }
 
 #education-button .items{
@@ -157,6 +159,7 @@ html{
     color: #fff;
     padding: 1rem;
     height: 100vh;
+    min-height: 600px;
 }
    
 #contact-button .contact-form{
