@@ -192,12 +192,11 @@ surprised that I never encountered the error before when, for example, I used go
 page. On my computer, the background color was white, but when I tested the page on my mobile phone, the background color was dark blue. 
 I then added white to the background color rule on style.css.
 
-- A recurrent problem/bug which I have not managed to resolve satisfactorily is the height of the home page (index html). I really wanted the background photo to take up the full height of the screen and absorb the text from the footer and this works, but it then also creates a vertical scrollbar due to overflow.
-All my attempts to fix this have failed because if I resolved the overflow problem I then ended up with an issue with the footer icons moving around and/or a white band at the bottom of the page. In the end, I figured that it caused the least disruption to the site to leave the overflow as it was.
+- During my last testing just before submitting, I ran into an issue with home section, education section and contact section.
+When I vertically shrank the browser window I found out that the sections mentioned above overlapped other sections above or below. 
+Therefore I added the style "min-height" to these sections to prevent overlapping. 
 
-- I have tested the code on  different browsers (Chrome, Firefox, Edge, Opera, Safari) and on different devices such as mobile, tablet, laptop and large desktop.
-
-In other instances, I have simply changed things around because I thought that they looked nicer or worked better.
+I have tested the code on browsers (Chrome, Firefox, Edge, Opera, Safari) and on different devices such as mobile, tablet, laptop and large desktop monitor.
 
 ## Deployment <a name="deployment"></a>
 
